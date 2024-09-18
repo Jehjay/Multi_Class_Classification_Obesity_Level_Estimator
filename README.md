@@ -10,22 +10,22 @@ Decision Tree | Support Vector Machine (SVM) Classifier
 model at <i>100% accuracy</i>. </li>
 </ul>
 
-Non-pre-processed dataset sourced from:
+❖ Non-pre-processed dataset sourced from:
 https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
-There are 17 features/attributes and 2111 records with 77% of data synthetically generated using the SMOTE filter for the balancing process to decrease the probability of skewed learning in favour of a majority class.
+❖ There are 17 features/attributes and 2111 records with 77% of data synthetically generated using the SMOTE filter for the balancing process to decrease the probability of skewed learning in favour of a majority class.
 
 STEPS 1
 <ul><li>Import libraries</li></ul>ul>
 STEP 2
-<ul><li>Fetch data and load CSV file in pandas data frame</li></ul>ul>
+<ul><li>Fetch data and load CSV file in pandas data frame</li></ul>
 STEP 3
-<ul><li>Data Wrangling: Transform and Analyse the data.</li></ul>ul>
+<ul><li>Data Wrangling: Transform and Analyse the data.</li></ul>
 STEP 4
-<ul><li>Determine the Target variable and create an Explanatory variable</li></ul>ul>
+<ul><li>Determine the Target variable and create an Explanatory variable</li></ul>
 <ul><li>Testing and Training data split</li></ul>
-<ul><li>Build machine learning multi-class classification models</li></ul>ul>
+<ul><li>Build machine learning multi-class classification models</li></ul>
 <ul><li>Run Predictions</li></ul>
 STEP 5
-<ul><li>Evaluate the Models</li></ul>ul>
+<ul><li>Evaluate the Models</li></ul>
 <ul><li>Visualise results</li></ul>
