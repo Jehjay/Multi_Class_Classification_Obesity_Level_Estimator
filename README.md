@@ -22,7 +22,7 @@ STEP 3
 STEP 4
 <ul><li>Determine the Target variable and create an Explanatory variable</li></ul>
 <ul><li>Testing and Training data split</li></ul>
-<ul><li>Build machine learning multi-class classification models</li></ul>
+<ul><li>Build Decision Tree and Support Vector Machine (SVM) multi-class classification models</li></ul>
 <ul><li>Run Predictions</li></ul>
 STEP 5
 <ul><li>Evaluate the Models</li></ul>
