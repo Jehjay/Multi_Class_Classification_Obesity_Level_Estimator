@@ -8,11 +8,14 @@ Decision Tree | Support Vector Machine (SVM) Classifier
 <li> I Implemented and evaluated a <i> Multi-class Decision Tree Classifier with 76% accuracy</i> and a <i>Support Vector Machine (SVM) Classifier with 69% accuracy </i> to estimate the obesity level of an individual using <i>seven categories: Underweight-less than 18.5, Normal-18.5 to 24.9, Overwieght I-25.0 to 29.9, Overweight II-, Obesity I-30.0 to 34.9, Obesity II-35.0 to 39.9, Obesity III-higher than 40 based on the formula - body mass index = (weight/(height*height))</i>, allowing a detailed analysis of the affectation level of an individual. </li>
 </ul>
 
+
+<h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
 https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
 ❖ There are 17 features/attributes and 2111 records with 77% of data synthetically generated using the SMOTE filter for the balancing process to decrease the probability of skewed learning in favour of a majority class.
 
+<h2> <i>Work Flow</i> </h2>	
 STEPS 1
 <ul><li>Import libraries</li></ul>
 STEP 2
