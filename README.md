@@ -5,9 +5,12 @@ Decision Tree | Support Vector Machine (SVM) Classifier
 <ul>
 <li> To Develop a model for estimating the obesity level in individuals between 14 and 61 and the affectation level of an individual based on several factors that propitiate the apparition of obesity problems, such as eating habits and physical condition, from anonymised survey data.
 <i>Techstack</i>: Python 3.7, numpy, pandas, matplotlib, sklearn, seaborn. </li>
-<li> I Implemented and evaluated a <i> Multi-class Decision Tree Classifier with 76% accuracy</i> and a <i>Support Vector Machine (SVM) Classifier with 69% accuracy </i> to estimate the obesity level of an individual using <i>seven categories: Underweight-less than 18.5, Normal-18.5 to 24.9, Overwieght I-25.0 to 29.9, Overweight II-, Obesity I-30.0 to 34.9, Obesity II-35.0 to 39.9, Obesity III-higher than 40 based on the formula - body mass index = (weight/(height*height))</i>, allowing a detailed analysis of the affectation level of an individual. </li>
 </ul>
 
+<h2> <i>Results</i> </h2>		
+<ul>  
+<li> I Implemented and evaluated a <i> Multi-class Decision Tree Classifier with 76% accuracy</i> and a <i>Support Vector Machine (SVM) Classifier with 69% accuracy </i> to estimate the obesity level of an individual using <i>seven categories: Underweight-less than 18.5, Normal-18.5 to 24.9, Overwieght I-25.0 to 29.9, Overweight II-, Obesity I-30.0 to 34.9, Obesity II-35.0 to 39.9, Obesity III-higher than 40 based on the formula - body mass index = (weight/(height*height))</i>, allowing a detailed analysis of the affectation level of an individual. </li>
+</ul>
 
 <h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
