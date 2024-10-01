@@ -14,7 +14,8 @@ Decision Tree | Support Vector Machine (SVM) Classifier
 
 <h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
-https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+
+[eating habits and physical condition dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 
 ❖ There are 17 features/attributes and 2111 records with 77% of data synthetically generated using the SMOTE filter for the balancing process to decrease the probability of skewed learning in favour of a majority class.
 
